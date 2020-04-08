@@ -2,6 +2,8 @@
 
 Multiple prints on the same line.
 
+[![asciicast](https://asciinema.org/a/TC204YaZR092nw6oTmj1cAN2F.svg)](https://asciinema.org/a/TC204YaZR092nw6oTmj1cAN2F)
+
 ```python
 items = [
     "Honujwa",
